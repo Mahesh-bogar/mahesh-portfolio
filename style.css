@@ -92,7 +92,7 @@ a {
 }
 
 .hero-media {
-  background: url("assets/hero-workspace.png") center / cover no-repeat;
+  background: url("hero-workspace.png") center / cover no-repeat;
   transform: scale(1.02);
 }
 
